@@ -17,6 +17,6 @@ interface VcbMasterInterface
 
     public function searchTransactions($params);
 
-    public function getTransactions($params);
+    public function getTransactions($id);
 
 }
