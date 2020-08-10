@@ -1,2 +1,2 @@
-Napas Billing
+Connect to VCB credit
 =======================
